@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.titulo{
+    display: inline;
+}
+.titulo>img{
+    width: 48px;
+    height: 48px;
+
+}
+.titulo>span{
+    width: 161px;
+    height: 36px;
+    font-family: "Inter",sans-serif;
+    font-weight: 600;
+    font-size: 29.9px;
+    line-height: 100%;
+    color: #333437;
+}
+.cabeca{
+    display: flex;
+    gap:34px;
+    list-style: none;
+}
+.cabeca>li{
+   height: 20px;
+    font-family:"Inter",sans-serif ;
+    font-size: 16.9px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #686869;
+  
+
+}

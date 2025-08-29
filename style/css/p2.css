@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.p2>h2{
+    width: 285px;
+    height: 47px;
+
+    font-family: "Inter",sans-serif ;
+    font-weight:600;
+    font-size:35px;
+    line-height: 100%;
+    color: #34373D;
+    font-size: 35px;
+
+
+}
+
+.p2>div{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.p2>div>div{
+    
+    background-color: #FEFEFE;
+    width: 238px;
+    height: 209px;
+   display: flex;
+   
+
+}
+
+.p2>div>div>img{
+    width: 41px;
+    height: 57px;
+
+}
+.p2>div>div>div>span{
+    font-family:"Inter",sans-serif ;
+    font-size:20.8px;
+    font-weight: 400;
+    color: #4F5054;
+
+}
+.p2>div>div>div>p{
+    font-family:"Inter",sans-serif ;
+    font-size: 15.9px;
+    line-height: 23px;
+    color: #434445;
+
+}

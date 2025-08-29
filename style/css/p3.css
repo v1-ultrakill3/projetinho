@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.p3>h2{
+    color: #3D4146;
+    font-family:  "Inter",sans-serif ;
+    font-size: 34.9px;
+    font-weight: bold;
+    width: 341px;
+    height: 41px;
+}
+
+.p3f{
+   
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 1fr 1fr ;
+    gap: 18px;
+}
+.p3f>div>div{
+    width: 367px;
+    height: 132px;
+    background-color: #FFFFFF;
+    display: block;
+    gap: 28px;
+    border-radius:12px ;
+
+
+}
+.p3f>div>div{
+    margin-top: 30px;
+
+}
+.p3f>div>img{
+
+    width: 51px;
+    height: 51px;
+    margin-left: 34px;
+    margin-top: 30px;
+}
+.p3f>div>div>span{
+    color: #535357;
+    font-family: "Inter",sans-serif;
+    font-weight: bold;
+    font-size: 20.8px;
+
+}
+.p3f>div>div>p{
+    width: 200px;
+    height: 50px;
+    font-family: "Inter",sans-serif;
+    font-weight:400;
+    color: #666667;
+    line-height: 21.1px;
+    font-size: 15.5px;
+}
